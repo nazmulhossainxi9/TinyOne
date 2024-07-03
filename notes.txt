@@ -1,0 +1,42 @@
+header-------------------------------------
+            xxl/xl/lg       md      sm/xsm
+menu        22              20          16
+
+
+
+slider-------------------------------------
+            xxl/xl/lg       md      sm/xsm
+h1             32px        32px      25px  
+h2             20PX        20PX      18px
+p              16px        16px      16px
+icon           42px        42px      35px
+pbottom         
+
+
+
+padding-------------------------------------
+            xxl/xl/lg       md      sm/xsm
+            100-120px      80px     50-70px
+
+
+
+feature-------------------------------------
+            xxl/xl/lg       md       sm/xsm
+pt            100px        80px      50-70px
+pbottom       120px        100px     70-80px
+mt             70px         50px     30px
+h1             32px        32px      25px  
+h2             20PX        20PX      18px
+
+
+
+
+fonts---------
+    font-family: "PT Sans", sans-serif;
+
+colors--------
+    black: #010101;
+    yellow: #fcdb00;
+    ashes: #898989;
+    navyblue: #313841;
+    pcolor: #555555;

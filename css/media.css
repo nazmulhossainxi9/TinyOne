@@ -1,0 +1,182 @@
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .header{
+        padding:10px;
+    }
+
+    .menu ul li a{
+        padding: 10px 0 0 0 !important;
+        font-size: 20px;
+        text-align: right;
+    }
+
+    .f_text{
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    /* footer  */
+    .info1{
+        margin-bottom: 0;
+    }
+    .info2{
+        margin-top: 40px;
+    }
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+    .c_padding{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+
+    .menu ul li a{
+        padding: 10px 0 0 0 !important;
+        font-size: 20px;
+        text-align: right;
+    }
+
+    /* slider */
+    .slider{
+        padding-bottom: 60px;
+    }
+    .c_indicators{
+        bottom: -65px;
+    }
+
+    .c_indicators [data-bs-target]{
+        width: 13px;
+        height: 13px;
+    }
+    
+    .s_text{
+        margin-top: 0;
+        text-align: center;
+    }
+
+    .s_text h1{
+        font-size: 25px;
+    }
+
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    }
+
+    .s_text p{
+        margin-bottom: 20px;
+    }
+
+    .s_icon ul li{    
+        margin-right: 20px !important;
+    }
+
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+
+    /* feature */
+    
+    .c_h1{
+        font-size: 25px !important;
+    }
+
+    .c_p{
+        margin: 10px 0;
+        font-size: 16px;
+    }
+
+
+    .f_icon i {
+        margin-top: 3px;
+        font-size: 35px;
+    }
+
+    .f_text{
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .f_text h2{
+        font-size: 20px;
+    }
+
+    /* contact */
+    .c_form{
+        margin-top: 35px;
+        margin-bottom: 40px;
+    }
+    .c_input, .c_submit{
+        height: 45px;
+    }
+    .c_icon li{
+        margin-right: 18px !important;
+    }
+    .c_icon ul li i{
+        font-size: 35px;
+    }
+
+    /* footer */
+    footer{
+        padding-bottom: 70px;
+    }
+    .info1{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .info2{
+        text-align: center;
+    }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+
+    .c_padding{
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+
+    .navbar-toggler-icon {
+        width: 20px;
+        height: 20px;
+        outline: 0;
+    }
+
+    .menu ul li a{
+        font-size: 20px;
+        padding: 10px 0 0 0 !important;
+        text-align: right;
+    }
+
+    /* feature */    
+    .c_h1{
+        font-size: 30px;
+    }
+
+    .c_p{
+        margin: 10px 0;
+        font-size: 16px;
+    }
+    .f_item {
+        margin-top: 50px;
+    }
+
+    /* contact */
+    .c_form{
+        margin-top: 35px;
+        margin-bottom: 40px;
+    }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {  }
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) { }
+
+/* XX-Large devices (larger desktops) */
+/* No media query since the xxl breakpoint has no upper bound on its width */
